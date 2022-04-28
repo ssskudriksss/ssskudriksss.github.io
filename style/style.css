@@ -1,7 +1,7 @@
 .block1 {margin: 0 30px; padding: 20px 30px; background-color: rgb(238, 196, 28);}
-.block2 {margin: 0 30px; padding: 20px 30px; background-color: rgba(42, 42, 42, 0.542);}
+#block2 {margin: 0 30px; padding: 20px 30px; background-color: rgba(42, 42, 42, 0.542);}
 
 
 
 
-.letter {color: rgb(255, 165, 39);font-size: 20px;}
+p {color: rgb(255, 165, 39);font-size: 20px;}
