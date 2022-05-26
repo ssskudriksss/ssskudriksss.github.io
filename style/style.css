@@ -4,3 +4,50 @@
 
 a {color: rgb(0, 0, 0);}
 p {color: rgb(237, 154, 37);font-size: 20px;}
+
+
+.Candies
+{
+    text-align:center;
+    color:#bfbfbf;
+    cursor:pointer;
+    font-size:14px;
+    height:38px;
+    background-color:#f3f3f3;
+    line-height:38px;
+    border: 1px solid #e7e7e7;
+    display:table-cell;
+    text-decoration: none;
+}
+.Candies_Chocolate
+{
+    color:#fefefe;
+    background-color:#29c5e6;
+    border:1px solid #29c5e6;
+}
+.Candies_Nutty
+ {   
+    color:#fefefe;   
+    background-color:#df0038;  
+    border:1px solid #df0038;
+ }
+ .Candies_Biscuit
+{
+    color:#fefefe;
+    background-color:#590074;
+    border:1px solid #590074;
+}
+
+
+.Ice_cream
+{
+    font-size: 36px;
+    text-transform: uppercase;
+    color: #fff;
+    font-weight: 700;
+    text-decoration: none;
+}
+.Ice_cream_Chocolate
+{
+
+}
