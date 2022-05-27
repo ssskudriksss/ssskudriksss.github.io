@@ -1,0 +1,38 @@
+.BG{
+    max-width: 100%;
+    height: 100vh;
+    background: url(/images/Fon.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.BG_KRUG{
+    width: 250px;
+   height: 250px;
+   background-color: rgba(0, 217, 255, 0.726);
+   border-radius: 50%;
+   position: absolute;
+   top: 50%;
+   left: 50%;
+   margin: -125px 0 0 -125px;
+   text-align: center;
+   font-size: 25px;
+   font-style: italic;
+
+}
+
+.BG_KRUG:hover{
+    animation-name: BG_KRUG;
+    animation-duration: 2s;
+    animation-direction: normal;
+}
+
+@keyframes BG_KRUG{
+    0%{top: 480px;}
+    100%{top: 460px;}
+}
