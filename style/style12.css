@@ -21,7 +21,7 @@
    left: 50%;
    margin: -125px 0 0 -125px;
    text-align: center;
-   font-size: 25px;
+   font-size: 30px;
    font-style: italic;
 
 }
@@ -29,10 +29,10 @@
 .BG_KRUG:hover{
     animation-name: BG_KRUG;
     animation-duration: 2s;
-    animation-direction: normal;
 }
 
 @keyframes BG_KRUG{
-    0%{top: 480px;}
-    100%{top: 460px;}
+    0%{top: 475px;}
+    100%{top: 455px;}
 }
+a {color: rgb(255, 0, 234);}
